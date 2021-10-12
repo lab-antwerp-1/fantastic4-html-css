@@ -10,7 +10,8 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+| Wed |Zoom | Website Ideas and work devision|
+
 
 ## Communication Channels
 
