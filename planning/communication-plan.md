@@ -16,10 +16,10 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Slack Messaging**:
-- **Zoom Video Calls**:
-- **Issues**:
-- **Pull Requests**:
+- **Slack Messaging**: Daily
+- **Zoom Video Calls**: 1-2 times weekly
+- **Issues**: Daily
+- **Pull Requests**: Daily
 
 ## Availability
 
