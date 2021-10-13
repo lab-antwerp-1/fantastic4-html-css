@@ -12,7 +12,6 @@
 | --- | :-: | ----------------------- |
 | Wed |Zoom | Website Ideas and work devision|
 
-
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
@@ -34,7 +33,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Thursday  | 09 - 15 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
 | Friday    | 09 - 15 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
 
-### How many hours everyone has per day:
+### How many hours everyone has per day
 
 - Sanne: 5h
 - name: _6h_;

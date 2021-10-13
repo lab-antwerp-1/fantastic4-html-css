@@ -1,35 +1,41 @@
 # Backlog
 
-## Must Haves
+A collection of user stories for your project. Stories inside of each priority
+level are not necessarily in order. You and your team will decide when to
+develop each story by drawing out your [Story Sequencing](#story-sequencing).
 
-> these are necessary for basic usability
+## Must-Haves
 
-- **Home Page**
-  - As a user I can read the title of the page
-    - [ ] _there is a prominent title at the top of the web page_
-  - As a user I can read an introduction to this project
-    - [ ] _there is a section directly under the navbar describing the project's
-          goals_
-  - As a user I can learn about trees
-    - [ ] _there is a main text in the page with helpful info and links_
-  - As a user I can learn even more about trees
-  - [ ] _there is an aside with links for further reading_
+are necessary for basic usability:
 
-## Should Haves
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- ...
 
-> will complete the user experience, but are not necessary
+## Should-Haves
 
-- **Home Page**
-  - As a user I can navigate the web page from a navbar
-    - [ ] _there is a navbar at the top of the page with links to the different
-          sections_
-  - As a user I can contact us to learn more about our project
-    - [ ] _there is a footer with contact info_
+will complete the user experience, but are not necessary:
 
-## Could Haves
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- ...
 
-> would be really cool ... if there's time
+## Could-Haves
 
-- **Home Page**
-  - as a user will smile (or roll their eyes) when they read our page
-  - [ ] _there are some silly animations_
+would be really cool ... if there's time:
