@@ -8,9 +8,9 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-| Wed |Zoom | Website Ideas and work devision|
+| Day | How  | The topic of discussion         |
+| --- | :--: | ------------------------------- |
+| Wed | Zoom | Website Ideas and work devision |
 
 ## Communication Channels
 
@@ -27,11 +27,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |  Sanne  | Eduardo |  Rupam  |   MJ    |  name   |
 | --------- | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Monday    | 09 - 15 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Tuesday   | 09 - 15 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Wednesday | 09 - 15 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Thursday  | 09 - 15 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Friday    | 09 - 15 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Monday    | 09 - 15 | 09 - 12 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Tuesday   | 09 - 15 | 09 - 12 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Wednesday | 09 - 15 | 09 - 12 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Thursday  | 09 - 15 | 09 - 12 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Friday    | 09 - 15 | 09 - 12 | 13 - 20 | 13 - 20 | 13 - 20 |
 
 ### How many hours everyone has per day
 
@@ -43,7 +43,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and stubbornly getting no where. Here is a general guide for when to ask for help based on how long you've been stuck on the same problem:
+There's a fine line between confidently learning from your mistakes, and
+stubbornly getting no where. Here is a general guide for when to ask for help
+based on how long you've been stuck on the same problem:
 
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
