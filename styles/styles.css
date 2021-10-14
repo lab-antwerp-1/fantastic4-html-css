@@ -1,11 +1,29 @@
 .fascinating-words {
-  font-family: fantasy;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .interesting-things {
-  list-style-type: square;
+  list-style-type: circle;
 }
 
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+body {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+ol {
+  display: inline-block;
+  text-align: left;
+}
 /* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
 .aside-info {
   width: 40%;
@@ -17,7 +35,8 @@
 }
 
 .aside-text {
-  font-family: monospace;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .bottom-divider {
