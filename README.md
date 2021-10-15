@@ -1,14 +1,12 @@
-# (project name)
+# Fantastic4
 
-<!-- describe your project -->
+![ fantastic 4](https://i.imgur.com/dNORv8R.png)
 
-## Getting Started
+## "The Starting Project"
 
-<!-- a guide to using this repository -->
-
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+Well, this is our first project of the movie, so we don't expect it to be a
+complete success, but we hope it will be a good starting point and a brutal
+learning experience.
 
 ## Code Quality Checks
 
